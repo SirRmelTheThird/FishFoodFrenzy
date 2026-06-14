@@ -72,7 +72,3 @@ cd FishFoodFrenzy
 ## 🚀 Running the Project
 
 Copy and open sketch files in your Processing 4.
-
-```text
-sketch.pde
-```
