@@ -1,4 +1,12 @@
+<div align="center">
+
 # Fish Food Frenzy
+
+![Processing](https://img.shields.io/badge/Processing-4-006699)
+
+</div>
+
+<img width="2560" height="1440" alt="Screenshot 2026-06-14 122941" src="https://github.com/user-attachments/assets/66f7ed6c-bbf9-4c74-a00c-80b883c917ed" />
 
 A simple 2D outerspaace game where the player controls a fish, collects food, and avoids dangerous puffer fish.
 
@@ -63,18 +71,8 @@ cd FishFoodFrenzy
 
 ## Running the Project
 
-Open sketch file in your processing 4.
-
-For example:
+Copy and open sketch files in your Processing 4.
 
 ```text
 sketch.pde
 ```
-
-You can also open the project in VS Code and run it using the Live Server extension.
-
-## License
-
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for more information.
