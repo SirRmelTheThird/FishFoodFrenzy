@@ -40,7 +40,7 @@ Each food item collected increases the player’s score. The player must move ca
 - Survive for as long as possible
 - Try to beat your highest score
 
-## Objects
+## 🧩 Objects
 
 | Object | Description |
 |---|---|
