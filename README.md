@@ -25,13 +25,13 @@ The main challenge is avoiding puffer fish. If the player touches a puffer fish,
 - Score system
 - Collision detection
 
-## Game Concept
+## 🎯 Game Concept
 
 The aim of the game is to collect as much food as possible while avoiding dangerous puffer fish.
 
 Each food item collected increases the player’s score. The player must move carefully around the ocean and avoid touching the puffer fish.
 
-## Gameplay
+## 🎮 Gameplay
 
 - Control the fish using the keyboard
 - Swim around the ocean environment
@@ -40,7 +40,7 @@ Each food item collected increases the player’s score. The player must move ca
 - Survive for as long as possible
 - Try to beat your highest score
 
-## Main Game Objects
+## Objects
 
 | Object | Description |
 |---|---|
