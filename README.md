@@ -8,11 +8,11 @@
 
 <img width="2560" height="1440" alt="Screenshot 2026-06-14 122941" src="https://github.com/user-attachments/assets/66f7ed6c-bbf9-4c74-a00c-80b883c917ed" />
 
-A simple 2D outerspaace game where the player controls a fish, collects food, and avoids dangerous puffer fish.
-
 ## Overview
 
 Fish Food Frenzy is a 2D game based in an outerspace environment. The player controls a fish that swims around the screen collecting food to increase their score.
+
+A simple 2D outerspaace game where the player controls a fish, collects food, and avoids dangerous puffer fish.
 
 The main challenge is avoiding puffer fish. If the player touches a puffer fish, they lose the game.
 
