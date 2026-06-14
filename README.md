@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fish Food Frenzy
+# 🐡 Fish Food Frenzy
 
 ![Processing](https://img.shields.io/badge/Processing-4-006699)
 
@@ -8,7 +8,7 @@
 
 <img width="2560" height="1440" alt="Screenshot 2026-06-14 122941" src="https://github.com/user-attachments/assets/66f7ed6c-bbf9-4c74-a00c-80b883c917ed" />
 
-## Overview
+## 📖 Overview
 
 Fish Food Frenzy is a 2D game based in an outerspace environment. The player controls a fish that swims around the screen collecting food to increase their score.
 
@@ -16,7 +16,7 @@ A simple 2D outerspaace game where the player controls a fish, collects food, an
 
 The main challenge is avoiding puffer fish. If the player touches a puffer fish, they lose the game.
 
-## Features
+## ✨ Features
 
 - 2D outerspace game environment
 - Player-controlled fish movement
@@ -49,13 +49,13 @@ Each food item collected increases the player’s score. The player must move ca
 | Puffer Fish | Enemy obstacles that the player must avoid |
 | Space Background | The main game environment |
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Installation
+## 📥 Installation
 
 Clone the repository:
 
@@ -69,7 +69,7 @@ Open the project folder:
 cd FishFoodFrenzy
 ```
 
-## Running the Project
+## 🚀 Running the Project
 
 Copy and open sketch files in your Processing 4.
 
