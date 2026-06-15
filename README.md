@@ -4,9 +4,9 @@
 
 ![Processing](https://img.shields.io/badge/Processing-4-006699)
 
-</div>
+<img src="https://github.com/SirRmelTheThird/FishFoodFrenzy/blob/main/FishFoodFrenzy/docs/demo.gif?raw=true" alt="Fish Food Frenzy Demo"/>
 
-<img src="https://github.com/SirRmelTheThird/FishFoodFrenzy/docs/demo.gif?raw=true" alt="Fish Food Frenzy Demo"/>
+</div>
 
 ## 📖 Overview
 
