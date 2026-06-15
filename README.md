@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="2560" height="1440" alt="Screenshot 2026-06-14 122941" src="https://github.com/user-attachments/assets/66f7ed6c-bbf9-4c74-a00c-80b883c917ed" />
+<img src="https://github.com/SirRmelTheThird/FishFoodFrenzy/docs/demo.gif?raw=true" alt="Fish Food Frenzy Demo"/>
 
 ## 📖 Overview
 
