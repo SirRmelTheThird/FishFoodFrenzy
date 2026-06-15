@@ -4,7 +4,7 @@
 
 ![Processing](https://img.shields.io/badge/Processing-4-006699)
 
-<img src="https://github.com/SirRmelTheThird/FishFoodFrenzy/blob/main/FishFoodFrenzy/dos/demo.gif?raw=true" alt="Fish Food Frenzy Demo"/>
+<img src="https://github.com/SirRmelTheThird/FishFoodFrenzy/blob/main/FishFoodFrenzy/docs/demo.gif?raw=true" alt="Fish Food Frenzy Demo"/>
 
 </div>
 
