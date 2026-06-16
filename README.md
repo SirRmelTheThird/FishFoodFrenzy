@@ -2,7 +2,8 @@
 
 # 🐡 Fish Food Frenzy
 
-![Processing](https://img.shields.io/badge/Processing-4-006699)
+[![Processing](https://img.shields.io/badge/Processing-4-006699.svg?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://processing.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <img src="https://github.com/SirRmelTheThird/FishFoodFrenzy/blob/main/FishFoodFrenzy/docs/demo.gif?raw=true" alt="Fish Food Frenzy Demo"/>
 
